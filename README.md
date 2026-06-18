@@ -5,33 +5,32 @@
 </h3>
 
 <p align="center">
-Passionate about building scalable web applications, solving challenging problems, and contributing to the open-source community.
+Passionate about building scalable web applications, solving challenging problems, and continuously learning new technologies.
 </p>
 
 ---
 
 ## 🎓 Education
 
-**Bachelor of Technology (B.Tech) in Computer Science Engineering**  
-🏛️ Maharaja Surajmal Institute of Technology (MSIT), New Delhi  
+🏛️ **Maharaja Surajmal Institute of Technology (MSIT), New Delhi**  
+🎓 Bachelor of Technology (B.Tech) in Computer Science Engineering  
 📅 2024 - 2028  
-📈 CGPA: 8.824/10
 
 ---
 
 ## 👨‍💻 About Me
 
-- 🌱 Currently learning and building projects using the **MERN Stack**.
+- 🌱 Currently learning and building with the **MERN Stack**.
 - 💡 Passionate about **Data Structures & Algorithms** and problem-solving.
-- ⚔️ Regularly practicing **Competitive Programming** to strengthen coding skills.
+- ⚔️ Regularly practicing **Competitive Programming**.
 - 🤝 Contributor at **GirlScript Summer of Code (GSSoC) 2026**.
-- 🎯 Aspiring to become a skilled Software Engineer and build impactful products used by millions.
+- 🎯 Working towards becoming a Software Engineer who builds impactful products.
 
 ---
 
 ## 🛠️ Tech Stack
 
-### Languages
+### Programming Languages
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=java,cpp,c,python,javascript,typescript,sql" />
@@ -53,7 +52,7 @@ Passionate about building scalable web applications, solving challenging problem
 ### Tools & Technologies
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,vercel,mysql" />
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,mysql" />
 </p>
 
 ---
@@ -69,55 +68,44 @@ Passionate about building scalable web applications, solving challenging problem
 
 ---
 
-## 🌟 Featured Project
-
-### 📝 NeuroNote
-
-A full-stack study management platform built using React.js, Node.js, Express.js, and MongoDB.
-
-✨ Features:
-
-- JWT Authentication
-- Notes & Book Management
-- PDF Upload & Storage
-- REST API Integration
-- Responsive User Interface
-- MongoDB Database Management
-
-🔗 Repository: https://github.com/chhavss/NeuroNote
-
----
-
 ## 🏆 LeetCode Stats
 
-![LeetCode Stats](https://leetcard.jacoblin.cool/CHHAVSS?theme=dark&font=Karma&ext=contest)
+<p align="center">
+  <img src="https://leetcard.jacoblin.cool/CHHAVSS?theme=dark&font=Karma&ext=contest" />
+</p>
 
 ---
 
 ## 📈 GitHub Statistics
 
-![Chhavi's GitHub Stats](https://github-readme-stats.vercel.app/api?username=chhavss&show_icons=true&theme=tokyonight)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=chhavss&show_icons=true&theme=tokyonight" />
+</p>
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=chhavss&theme=tokyonight)
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=chhavss&theme=tokyonight" />
+</p>
 
 ---
 
 ## 💻 Most Used Languages
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=chhavss&layout=compact&theme=tokyonight)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chhavss&layout=compact&theme=tokyonight" />
+</p>
 
 ---
 
 ## 🌐 Connect With Me
 
 <p align="left">
-<a href="https://github.com/chhavss" target="_blank">
-<img src="https://skillicons.dev/icons?i=github" />
-</a>
+  <a href="https://github.com/chhavss">
+    <img src="https://skillicons.dev/icons?i=github" />
+  </a>
 
-<a href="https://www.linkedin.com/in/chhavi-31418231b/" target="_blank">
-<img src="https://skillicons.dev/icons?i=linkedin" />
-</a>
+  <a href="https://www.linkedin.com/in/chhavi-31418231b/">
+    <img src="https://skillicons.dev/icons?i=linkedin" />
+  </a>
 </p>
 
 📧 Email: thechhavi13@gmail.com
