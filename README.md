@@ -68,14 +68,6 @@ Passionate about building scalable web applications, solving challenging problem
 
 ---
 
-## 🏆 LeetCode Stats
-
-<p align="center">
-  <img src="https://leetcard.jacoblin.cool/CHHAVSS?theme=dark&font=Karma&ext=contest" />
-</p>
-
----
-
 ## 📈 GitHub Statistics
 
 <p align="center">
