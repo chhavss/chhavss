@@ -26,7 +26,6 @@ Passionate about building scalable web applications, solving challenging problem
 - ## 🌐 Coding Profiles
 
 - 🟠 [LeetCode](https://leetcode.com/u/CHHAVSS/)
-- 💻 [GitHub](https://github.com/chhavss)
 - 💼 [LinkedIn](https://www.linkedin.com/in/chhavi-31418231b/)
 - 🎯 Working towards becoming a Software Engineer who builds impactful products.
 
