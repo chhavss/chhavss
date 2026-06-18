@@ -23,7 +23,11 @@ Passionate about building scalable web applications, solving challenging problem
 - 🌱 Currently learning and building with the **MERN Stack**.
 - 💡 Passionate about **Data Structures & Algorithms** and problem-solving.
 - ⚔️ Regularly practicing **Competitive Programming**.
-- 🤝 Contributor at **GirlScript Summer of Code (GSSoC) 2026**.
+- ## 🌐 Coding Profiles
+
+- 🟠 [LeetCode](https://leetcode.com/u/CHHAVSS/)
+- 💻 [GitHub](https://github.com/chhavss)
+- 💼 [LinkedIn](https://www.linkedin.com/in/chhavi-31418231b/)
 - 🎯 Working towards becoming a Software Engineer who builds impactful products.
 
 ---
