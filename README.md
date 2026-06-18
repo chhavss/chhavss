@@ -47,7 +47,7 @@ Passionate about building scalable web applications, solving challenging problem
 - Data Structures & Algorithms
 - Database Management Systems (DBMS)
 - Statistics
-- Linear Algebra
+- Object Oriented Programming
 
 ### Tools & Technologies
 
