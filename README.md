@@ -44,10 +44,9 @@ Passionate about building scalable web applications, solving challenging problem
 
 ### Core Computer Science
 
-- Data Structures & Algorithms
+- Data Structures & Algorithms(DSA)
 - Database Management Systems (DBMS)
-- Statistics
-- Object Oriented Programming
+- Object Oriented Programming(OOPS)
 
 ### Tools & Technologies
 
