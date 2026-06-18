@@ -24,11 +24,8 @@ Passionate about building scalable web applications, solving challenging problem
 - 💡 Passionate about **Data Structures & Algorithms** and problem-solving.
 - ⚔️ Regularly practicing **Competitive Programming**.
 - ## 🌐 Coding Profiles
-
 - 🟠 [LeetCode](https://leetcode.com/u/CHHAVSS/)
-- 💼 [LinkedIn](https://www.linkedin.com/in/chhavi-31418231b/)
 - 🎯 Working towards becoming a Software Engineer who builds impactful products.
-
 ---
 
 ## 🛠️ Tech Stack
