@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="banner.png" alt="Chhavi Banner" width="100%" />
+</p>
 <h1 align="center">Hey 👋, I'm Chhavi</h1>
 
 <h3 align="center">
