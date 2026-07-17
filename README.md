@@ -1,11 +1,7 @@
 <p align="center">
   <img src="banner.png" alt="Chhavi Banner" width="100%" />
 </p>
-<h1 align="center">Hey 👋, I'm Chhavi</h1>
-
-<h3 align="center">
-🚀 Aspiring MERN Stack Developer | Competitive Programmer | Open Source Contributor
-</h3>
+<
 
 <p align="center">
 Passionate about building scalable web applications, solving challenging problems, and continuously learning new technologies.
