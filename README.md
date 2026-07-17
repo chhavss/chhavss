@@ -1,7 +1,7 @@
 <p align="center">
   <img src="banner.png" alt="Chhavi Banner" width="100%" />
 </p>
-<
+
 
 <p align="center">
 Passionate about building scalable web applications, solving challenging problems, and continuously learning new technologies.
