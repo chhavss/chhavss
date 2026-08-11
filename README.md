@@ -73,7 +73,7 @@ Passionate about building scalable web applications, solving challenging problem
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=chhavss&theme=tokyonight" />
+  <img src="https://github-readme-streak-stats-eight.vercel.app/?user=chhavss&theme=tokyonight" />
 </p>
 
 ---
@@ -81,9 +81,8 @@ Passionate about building scalable web applications, solving challenging problem
 ## 💻 Most Used Languages
 
 <p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=chhavss&layout=compact&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chhavss&layout=compact&theme=tokyonight" />
 </p>
-
 ---
 
 ## 🟠 LeetCode Statistics
