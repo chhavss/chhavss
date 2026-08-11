@@ -77,11 +77,10 @@ Passionate about building scalable web applications, solving challenging problem
 </p>
 
 ---
-
-## 💻 Most Used Languages
+## 💻 Languages & Technologies
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chhavss&layout=compact&theme=tokyonight&hide_border=true" />
+  <img src="https://skillicons.dev/icons?i=java,cpp,c,python,javascript,typescript,sql,html,css,react,nodejs,express,mongodb,mysql" />
 </p>
 
 ## 🟠 LeetCode Statistics
