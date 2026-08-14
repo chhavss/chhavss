@@ -101,6 +101,7 @@ Passionate about building scalable web applications, solving challenging problem
   <img src="https://img.shields.io/badge/REST%20APIs-222222?style=for-the-badge" />
 </p>
 
+## Tools
 <p align="left">
   <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,mysql" />
 </p>
