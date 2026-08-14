@@ -41,12 +41,47 @@ Passionate about building scalable web applications, solving challenging problem
   <img src="https://skillicons.dev/icons?i=html,css,react,nodejs,express,mongodb" />
 </p>
 
+### AI / ML
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,keras,sklearn" />
+</p>
+
+<p align="left">
+  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" />
+  <img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" />
+  <img src="https://img.shields.io/badge/Transformers-FFB000?style=for-the-badge&logo=huggingface&logoColor=white" />
+  <img src="https://img.shields.io/badge/NLTK-154F5B?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+</p>
+
+### Data & Vector Stores
+
+<p align="left">
+  <img src="https://img.shields.io/badge/ChromaDB-FF6F61?style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/FAISS-1877F2?style=for-the-badge&logoColor=white" />
+  <img src="https://skillicons.dev/icons?i=mongodb,mysql,sqlite" />
+</p>
+
+### Backend & Tools
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=fastapi,nodejs,git,github,vscode,postman" />
+</p>
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" />
+  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" />
+  <img src="https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white" />
+</p>
+
 ### Core Computer Science
 
-- Data Structures & Algorithms(DSA)
+- Data Structures & Algorithms (DSA)
 - Database Management Systems (DBMS)
-- Object Oriented Programming(OOPS)
-
+- Object-Oriented Programming (OOP)
+- Competitive Programming
 ### Tools & Technologies
 
 <p align="left">
