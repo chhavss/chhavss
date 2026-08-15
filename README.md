@@ -1,29 +1,25 @@
 <p align="center">
-  <img src="banner.png" alt="Chhavi Banner" width="100%" />
+  <h1 align="center">Chhavi</h1>
 </p>
 
 <p align="center">
-  <b>Computer Science Engineering Student | Software Developer | DSA & Full-Stack Development</b>
+  <b>SE Undergrad @ MSIT</b> · Software / AI-ML Engineer · MERN · RAG · Agentic AI · Deep Learning
 </p>
 
 <p align="center">
-  Passionate about building scalable web applications, solving challenging problems,
-  and continuously learning new technologies.
-</p>
-
-<p align="center">
-  <a href="https://github.com/chhavss">
-    <img src="https://img.shields.io/badge/GitHub-chhavss-181717?style=for-the-badge&logo=github&logoColor=white" />
+  <a href="YOUR_PORTFOLIO_LINK">
+    <img src="https://img.shields.io/badge/Portfolio-181717?style=for-the-badge&logo=googlechrome&logoColor=white" />
   </a>
   <a href="https://www.linkedin.com/in/chhavi-31418231b/">
-    <img src="https://img.shields.io/badge/LinkedIn-Chhavi-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://leetcode.com/u/CHHAVSS/">
-    <img src="https://img.shields.io/badge/LeetCode-CHHAVSS-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" />
+  <a href="mailto:thechhavi13@gmail.com">
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
 
 ---
+
 
 ## 🎓 Education
 
