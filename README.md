@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <b>SE Undergrad @ MSIT</b> · Software / AI-ML Engineer · MERN · RAG · Agentic AI · Deep Learning
+  <b>CSE Undergrad @ MSIT</b> · Software / AI-ML Engineer · MERN · RAG · Agentic AI · Deep Learning
 </p>
 
 <p align="center">
@@ -21,31 +21,29 @@
 ---
 
 
-## 🎓 Education
+## Education
 
-🏛️ **Maharaja Surajmal Institute of Technology (MSIT), New Delhi**
-🎓 Bachelor of Technology (B.Tech) in Computer Science Engineering
-📅 2024 – 2028
-
----
-
-## 👩‍💻 About Me
-
-* 🎓 Computer Science Engineering student at **MSIT, New Delhi**
-* 🌱 Currently building and learning with the **MERN Stack**
-* 💡 Passionate about **Data Structures & Algorithms**
-* ⚔️ Regularly practicing **Competitive Programming**
-* 🌐 Interested in **Full-Stack Web Development**
-* 🧠 Exploring **AI, APIs and intelligent web applications**
-* 🏗️ Building real-world projects to strengthen my development skills
-* 🤝 Interested in **Open Source Contributions**
-* 🎯 Working towards becoming a Software Engineer who builds impactful products
+ **Maharaja Surajmal Institute of Technology (MSIT), New Delhi**
+ Bachelor of Technology (B.Tech) in Computer Science Engineering
+ 2024 – 2028
 
 ---
 
-# 🛠️ Tech Stack
+##  About Me
 
-## 💻 Programming Languages
+*  Currently building and learning with the **MERN Stack**
+*  Passionate about **Data Structures & Algorithms**
+*  Regularly practicing **Competitive Programming**
+*  Interested in **Full-Stack Web Development**
+*  Exploring **AI, APIs and intelligent web applications**
+*  Building real-world projects to strengthen my development skills
+*  Working towards becoming a Software Engineer who builds impactful products
+
+---
+
+#  Tech Stack
+
+##  Programming Languages
 
 <p align="left">
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
@@ -56,7 +54,7 @@
   <img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" />
 </p>
 
-## 🤖 AI / ML
+##  AI / ML
 
 <p align="left">
   <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" />
@@ -68,7 +66,7 @@
   <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" />
 </p>
 
-## 🌐 Frontend Development
+##  Frontend Development
 
 <p align="left">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
@@ -78,7 +76,7 @@
   <img src="https://img.shields.io/badge/Material--UI-007FFF?style=for-the-badge&logo=mui&logoColor=white" />
 </p>
 
-## ⚙️ Backend & Frameworks
+##  Backend & Frameworks
 
 <p align="left">
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
@@ -88,7 +86,7 @@
   <img src="https://img.shields.io/badge/REST%20APIs-02569B?style=for-the-badge&logo=fastapi&logoColor=white" />
 </p>
 
-## 🗄️ Databases
+##  Databases
 
 <p align="left">
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
@@ -96,7 +94,7 @@
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
 </p>
 
-## 🧠 Core Computer Science
+##  Core Computer Science
 
 <p align="left">
   <img src="https://img.shields.io/badge/Data%20Structures%20%26%20Algorithms-222222?style=for-the-badge" />
@@ -106,7 +104,7 @@
   <img src="https://img.shields.io/badge/REST%20APIs-222222?style=for-the-badge" />
 </p>
 
-## 🔧 Tools & Technologies
+##  Tools & Technologies
 
 <p align="left">
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
@@ -118,18 +116,6 @@
 </p>
 
 ---
-
-# 📚 Currently Learning & Improving
-
-* 🧩 Data Structures & Algorithms
-* ⚔️ Competitive Programming
-* 🌐 Full-Stack Development
-* ⚛️ React & Modern JavaScript
-* 🟢 Node.js & Express
-* 🗄️ Database Design & SQL
-* 🤖 AI-powered Web Applications
-* 🤝 Open Source Development
-* 🏗️ Software Engineering Practices
 
 ---
 
@@ -145,7 +131,7 @@ I'm currently focused on strengthening my problem-solving skills, building produ
 
 ---
 
-# 📊 GitHub Statistics
+#  GitHub Statistics
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=chhavss&show_icons=true&theme=tokyonight&hide_border=true" />
@@ -157,7 +143,7 @@ I'm currently focused on strengthening my problem-solving skills, building produ
 
 ---
 
-# 🧩 Coding Profiles
+#  Coding Profiles
 
 <p align="center">
   <a href="https://leetcode.com/u/CHHAVSS/">
@@ -173,7 +159,7 @@ I'm currently focused on strengthening my problem-solving skills, building produ
 
 ---
 
-# 📈 Contribution Graph
+#  Contribution Graph
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=CHHAVSS&theme=tokyo-night&hide_border=true" />
@@ -181,7 +167,7 @@ I'm currently focused on strengthening my problem-solving skills, building produ
 
 ---
 
-# 🌐 Connect With Me
+#  Connect With Me
 
 <p align="left">
   <a href="https://github.com/chhavss">
