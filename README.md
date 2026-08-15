@@ -159,13 +159,9 @@ I'm currently focused on strengthening my problem-solving skills, building produ
 
 ---
 
-#  Contribution Graph
-
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=CHHAVSS&theme=tokyo-night&hide_border=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=CHHAVSS&bg_color=0D1117&color=FF69B4&line=FF69B4&point=FFFFFF&area=true&hide_border=true" />
 </p>
-
----
 
 #  Connect With Me
 
