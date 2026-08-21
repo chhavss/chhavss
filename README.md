@@ -119,7 +119,7 @@
 
 ---
 
-# 🎯 Career Focus
+#  Career Focus
 
 ```text
 DSA → Problem Solving → Full Stack Development → Real-World Projects
@@ -159,9 +159,9 @@ I'm currently focused on strengthening my problem-solving skills, building produ
 
 ---
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=CHHAVSS&bg_color=0D1117&color=FF69B4&line=FF69B4&point=FFFFFF&area=true&hide_border=true" />
-</p>
+<img
+  src="https://github-readme-activity-graph.vercel.app/graph?username=chhavss&bg_color=0D1117&color=FF69B4&line=FF69B4&point=FFFFFF&area=true&hide_border=true"
+/>
 
 #  Connect With Me
 
