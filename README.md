@@ -158,10 +158,12 @@ I'm currently focused on strengthening my problem-solving skills, building produ
 </p>
 
 ---
-
-<img
-  src="https://github-readme-activity-graph.vercel.app/graph?username=chhavss&bg_color=0D1117&color=FF69B4&line=FF69B4&point=FFFFFF&area=true&hide_border=true"
-/>
+<div className="github-activity">
+  <img
+    src="https://github-readme-activity-graph.vercel.app/graph?username=chhavss&bg_color=0D1117&color=FF69B4&line=FF69B4&point=FFFFFF&area=true&hide_border=true"
+    alt="GitHub Activity Graph"
+  />
+</div>
 
 #  Connect With Me
 
