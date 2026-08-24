@@ -7,8 +7,7 @@
 </p>
 
 <p align="center">
-  <a href="YOUR_PORTFOLIO_LINK">
-    <a href="https://portfolio-chhavi10.vercel.app/"><img src="https://img.shields.io/badge/🌐_Portfolio-Visit_My_Portfolio-000?style=for-the-badge" alt="Portfolio"></a>
+<a href="link"><img src="https://img.shields.io/badge/🌐_Portfolio-000?style=for-the-badge" alt="Portfolio"></a>
   </a>
   <a href="https://www.linkedin.com/in/chhavi-31418231b/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
