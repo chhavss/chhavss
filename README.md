@@ -129,25 +129,9 @@ DSA → Problem Solving → Full Stack Development → Real-World Projects
 I'm currently focused on strengthening my problem-solving skills, building production-oriented web applications, contributing to open source, and preparing for software engineering internships.
 
 ---
-<h2 align="center">📊 GitHub Statistics</h2>
 
-<p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=CHHAVSS&show_icons=true&theme=radical&title_color=ff69b4&icon_color=ff69b4&text_color=ffffff&bg_color=0d1117&border_color=ff69b4"
-    width="48%"
-  />
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=CHHAVSS&layout=compact&theme=radical&title_color=ff69b4&text_color=ffffff&bg_color=0d1117&border_color=ff69b4"
-    width="40%"
-  />
-</p>
 
-<p align="center">
-  <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=CHHAVSS&bg_color=0d1117&color=ff69b4&line=ff69b4&point=ffffff&area=true&hide_border=true"
-    width="95%"
-  />
-</p>
+
 #  Coding Profiles
 
 <p align="center">
