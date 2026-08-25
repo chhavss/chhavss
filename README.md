@@ -135,12 +135,20 @@ I'm currently focused on strengthening my problem-solving skills, building produ
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=chhavss&show_icons=true&theme=tokyonight&hide_border=true" />
 </p>
+<h2 align="center">📊 GitHub Stats</h2>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats-eight.vercel.app/?user=chhavss&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical&title_color=FF69B4&icon_color=FF69B4&text_color=FFFFFF&bg_color=0D1117&border_color=FF69B4" height="180"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=radical&ring=FF69B4&fire=FF69B4&currStreakLabel=FF69B4&sideLabels=FF69B4&border=FF69B4&background=0D1117" height="180"/>
 </p>
 
----
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=radical&title_color=FF69B4&text_color=FFFFFF&bg_color=0D1117&border_color=FF69B4" height="180"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&bg_color=0D1117&color=FF69B4&line=FF69B4&point=FFFFFF&area=true&hide_border=false&custom_title=My%20Contribution%20Graph" width="95%"/>
+</p>
 
 #  Coding Profiles
 
