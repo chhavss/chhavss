@@ -129,29 +129,18 @@ DSA → Problem Solving → Full Stack Development → Real-World Projects
 I'm currently focused on strengthening my problem-solving skills, building production-oriented web applications, contributing to open source, and preparing for software engineering internships.
 
 ---
-
-#  GitHub Statistics
 <h2 align="center">📊 GitHub Statistics</h2>
 
 <p align="center">
   <img
-    src="https://github-readme-stats.vercel.app/api?username=CHHAVSS&show_icons=true&hide_border=true&title_color=ff69b4&icon_color=ff69b4&text_color=ffffff&bg_color=0d1117"
-    height="180"
+    src="https://github-readme-stats.vercel.app/api?username=CHHAVSS&show_icons=true&theme=radical&title_color=ff69b4&icon_color=ff69b4&text_color=ffffff&bg_color=0d1117&border_color=ff69b4"
+    width="48%"
   />
   <img
-    src="https://streak-stats.demolab.com/?user=CHHAVSS&hide_border=true&background=0d1117&ring=ff69b4&fire=ff69b4&currStreakLabel=ff69b4&sideLabels=ff69b4&currStreakNum=ffffff&sideNums=ffffff&dates=aaaaaa"
-    height="180"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=CHHAVSS&layout=compact&theme=radical&title_color=ff69b4&text_color=ffffff&bg_color=0d1117&border_color=ff69b4"
+    width="40%"
   />
 </p>
-
-<p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=CHHAVSS&layout=compact&hide_border=true&title_color=ff69b4&text_color=ffffff&bg_color=0d1117"
-    height="180"
-  />
-</p>
-
-<h2 align="center">📈 Contribution Graph</h2>
 
 <p align="center">
   <img
@@ -159,8 +148,6 @@ I'm currently focused on strengthening my problem-solving skills, building produ
     width="95%"
   />
 </p>
-
-
 #  Coding Profiles
 
 <p align="center">
