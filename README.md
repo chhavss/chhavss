@@ -130,7 +130,12 @@ I'm currently focused on strengthening my problem-solving skills, building produ
 
 ---
 
-
+<p align="center">
+  <img
+    src="https://github-readme-activity-graph.vercel.app/graph?username=CHHAVSS&bg_color=0d1117&color=ff69b4&line=ff69b4&point=ff69b4&area=true&hide_border=true"
+    width="95%"
+  />
+</p>
 
 #  Coding Profiles
 
